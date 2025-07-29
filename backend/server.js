@@ -11,6 +11,11 @@ const PORT = 3000;
 
 app.use(cors());
 
+// 👇 Optional home route to avoid "Cannot GET /"
+app.get("/", (req, res) => {
+  res.send("🩺 Aarogya OCR Backend is alive and healthy!");
+});
+
 app.post('/ocr', upload.single('file'), async (req, res) => {
   if (!req.file) return res.status(400).json({ error: 'No file uploaded' });
 
