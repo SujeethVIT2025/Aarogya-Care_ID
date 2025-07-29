@@ -73,8 +73,7 @@ A lightweight, AI-powered, mobile-first health platform that:
 ## 🚀 How to Use
 
 # Clone the repo
-git clone https://github.com/your-repo-link
-cd aarogya-care
+git clone https://github.com/SujeethVIT2025/Aarogya-Care_ID.git
 
 # Run locally (example for static site)
 open index.html
