@@ -2,6 +2,8 @@
 
 PPT and PDF drive Link : https://drive.google.com/drive/folders/1dDH8RxJRduyzU4LF-WJe3txuRKiGjP-s?usp=drive_link
 
+Basic Prototype for One Citizen : 
+
 > *Aarogya Care* is an inclusive, AI-driven health platform that enables every citizen of India to *digitally store, access, and share* their medical history using a secure QR-based identity: the *Aarogya ID*.  
 It uses *OCR + GPT + QR technology* to convert handwritten prescriptions into portable, structured medical records — even in offline-first environments.
 
@@ -141,7 +143,7 @@ Team Members :
   1. Sharan A
   2. Sujeeth T
   3. Nawin Ram S
-  4. Mohamed Maajid 
+  4. Mohamed Maajid S
 
 > Submitted for [CODE RED HACKATHON] – July 2025  
 > Making *digital health identity* a revolutionary and a reality for 1.4 billion Indians 🇮🇳
